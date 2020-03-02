@@ -1,4 +1,6 @@
-# week-4-assignment
+# Colorful Chat
+
+The basic idea is
 
 The words you type here:
 https://sirhcnep-week-4-assignment.glitch.me/input/
